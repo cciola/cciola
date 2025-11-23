@@ -7,14 +7,22 @@ Hey! I'm Carol, I have bachelor's degree in Computer Science, postgraduation in 
 Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenharia da Qualidade de Software. Estou na área de tecnologia há mais de 15 anos. Tenho experiência em execução de testes funcionais e não funcionais, manuais e automatizados, e vivência em times ágeis. Estou habituada a trabalhar com o modelo de qualidade ágil (*Shift Left Testing*), e minha stack de automação principal é o Cypress com Javascript.
 -->
 
+</br>
+
 * 👩🏻‍💻 Test Analyst Expert at <a href="https://www.gft.com/br/pt"> GFT Tecnologies</a></br>
 * 📚 Check my articles on <a href="https://carolciola.medium.com/">Medium</a></br>
 * 💬 Talk to me about software quality and test automation</br>
 * 💡 Studying about several themes, especially Cypress, Playwright and AI </br>
 * 🤭 Curiosity about me: I don't drink coffee!
 
+</br> 
+
+---
 ### Tools & technologies
 <p>
+<img height="40em" alt="Playwright" src="https://github.com/cciola/images/blob/main/playwright.svg"/>
+<img height="35em" alt="GitHub Copilot" src="https://github.com/cciola/images/blob/main/Copilot.png"/>
+<img height="40em" alt="MCP" src="https://github.com/cciola/images/blob/main/MCP.png"/>
 <img height="40em" alt="JavaScript" src="https://github.com/cciola/images/blob/main/JavaScript.svg"/>
 <img height="40em" alt="Cypress" src="https://github.com/cciola/images/blob/main/Cypress.jpeg"/>
 <img height="40em" alt="NodeJS" src="https://github.com/cciola/images/blob/main/nodejs.svg"/>
@@ -56,13 +64,11 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 <img height="37em" alt="Trello" src="https://github.com/cciola/images/blob/main/Trello.svg"/>
 <img height="40em" alt="SQL Server" src="https://github.com/cciola/images/blob/main/SQL.png"/>
 <img height="40em" alt="MongoDB" src="https://github.com/cciola/images/blob/main/MongoDB.svg"/>
-<img height="35em" alt="GitHub Copilot" src="https://github.com/cciola/images/blob/main/Copilot.png"/>
-<img height="40em" alt="Playwright" src="https://github.com/cciola/images/blob/main/playwright.svg"/>
-<img height="40em" alt="MCP" src="https://github.com/cciola/images/blob/main/MCP.png"/>
+
 <br><p>
 
+---
 ### Contact
-
 <p align="left">
 <a href="https://www.linkedin.com/in/carol-ciola"><img height="22em" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
@@ -71,13 +77,18 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 </a>
 </p>
 
+---
 <!--
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 
+<!--
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 </div>
+-->
+
+![Carol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=jolly&include_all_commits=true)
 
 <br>
 <p align="left">
