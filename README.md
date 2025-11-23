@@ -28,8 +28,8 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 ---
 ### Tools & Technologies
 <p>
-<a href="https://robotframework.org/"> <img height="40em" alt="Playwright" src="https://github.com/cciola/images/blob/main/playwright.svg" href="https://playwright.dev/"/></a>
-<img height="35em" alt="GitHub Copilot" src="https://github.com/cciola/images/blob/main/Copilot.png"/>
+<a href="https://playwright.dev/"> <img height="40em" alt="Playwright" src="https://github.com/cciola/images/blob/main/playwright.svg" href="https://playwright.dev/"/></a>
+<a href="https://github.com/features/copilot?locale=pt-BR"><img height="35em" alt="GitHub Copilot" src="https://github.com/cciola/images/blob/main/Copilot.png"/></a>
 <img height="40em" alt="MCP" src="https://github.com/cciola/images/blob/main/MCP.png"/>
 <img height="40em" alt="JavaScript" src="https://github.com/cciola/images/blob/main/JavaScript.svg"/>
 <img height="40em" alt="Cypress" src="https://github.com/cciola/images/blob/main/Cypress.jpeg"/>
