@@ -1,13 +1,5 @@
 # 👋 Hello world!
 
-<p align="left">
-<a href="https://www.linkedin.com/in/carol-ciola"><img height="22em" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-
-<a href="mailto:carol.ciola@gmail.com">
-<img height="22em" alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
 ### About me
 Hey! I'm Carol, I have bachelor's degree in Computer Science, postgraduation in Software Quality Engineering. I've been in the technology area for over 15 years. I have experience running functional, non-functional, manual and automated tests, and experience in agile teams. I'm used to work with agile quality model *Shift Left Testing*, and my main automation stack is Cypress with JavaScript.
 
@@ -18,7 +10,7 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 * 👩🏻‍💻 Test Analyst Expert at <a href="https://www.gft.com/br/pt"> GFT Tecnologies</a></br>
 * 📚 Check my articles on <a href="https://carolciola.medium.com/">Medium</a></br>
 * 💬 Talk to me about software quality and test automation</br>
-* 💡 Studying about several themes, especially Cypress</br>
+* 💡 Studying about several themes, especially Cypress, Playwright and AI </br>
 * 🤭 Curiosity about me: I don't drink coffee!
 
 ### Tools & technologies
@@ -64,8 +56,20 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 <img height="37em" alt="Trello" src="https://github.com/cciola/images/blob/main/Trello.svg"/>
 <img height="40em" alt="SQL Server" src="https://github.com/cciola/images/blob/main/SQL.png"/>
 <img height="40em" alt="MongoDB" src="https://github.com/cciola/images/blob/main/MongoDB.svg"/>
-
+<img height="40em" alt="GitHub Copilot" src="https://github.com/cciola/images/blob/main/Copilot.png"/>
+<img height="40em" alt="Playwright" src="https://github.com/cciola/images/blob/main/Playwright.png"/>
+<img height="40em" alt="MCP" src="https://github.com/cciola/images/blob/main/MCP.png"/>
 <br><p>
+
+### Contact
+
+<p align="left">
+<a href="https://www.linkedin.com/in/carol-ciola"><img height="22em" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+
+<a href="mailto:carol.ciola@gmail.com">
+<img height="22em" alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 <!--
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
