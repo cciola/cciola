@@ -1,6 +1,6 @@
 # 👋 Hello world!
 
-### About me
+### About Me
 Hey! I'm Carol, I have bachelor's degree in Computer Science, postgraduation in Software Quality Engineering. I've been in the technology area for over 15 years. I have experience running functional, non-functional, manual and automated tests, and experience in agile teams. I'm used to work with agile quality model *Shift Left Testing*, and my main automation stack is Cypress with JavaScript.
 
 <!--
@@ -17,10 +17,18 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 
 </br> 
 
+<p align="left">
+<a href="https://www.linkedin.com/in/carol-ciola"><img height="22em" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+
+<a href="mailto:carol.ciola@gmail.com">
+<img height="22em" alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 ---
-### Tools & technologies
+### Tools & Technologies
 <p>
-<img height="40em" alt="Playwright" src="https://github.com/cciola/images/blob/main/playwright.svg"/>
+<a href="https://robotframework.org/"> <img height="40em" alt="Playwright" src="https://github.com/cciola/images/blob/main/playwright.svg" href="https://playwright.dev/"/></a>
 <img height="35em" alt="GitHub Copilot" src="https://github.com/cciola/images/blob/main/Copilot.png"/>
 <img height="40em" alt="MCP" src="https://github.com/cciola/images/blob/main/MCP.png"/>
 <img height="40em" alt="JavaScript" src="https://github.com/cciola/images/blob/main/JavaScript.svg"/>
@@ -68,16 +76,6 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 <br><p>
 
 ---
-### Contact
-<p align="left">
-<a href="https://www.linkedin.com/in/carol-ciola"><img height="22em" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-
-<a href="mailto:carol.ciola@gmail.com">
-<img height="22em" alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
 <!--
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
@@ -92,4 +90,5 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 <br>
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> </p> 
+<img src="https://komarev.com/ghpvc/?username=cciola&label=Profile%20views&color=0e75b6&style=flat" alt="carolciola" /> 
+</p> 
