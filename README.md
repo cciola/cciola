@@ -12,7 +12,7 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 * 👩🏻‍💻 Test Analyst Expert at <a href="https://www.gft.com/br/pt"> GFT Tecnologies</a></br>
 * 📚 Check my articles on <a href="https://carolciola.medium.com/">Medium</a></br>
 * 💬 Talk to me about software quality and test automation</br>
-* 💡 Studying about several themes, especially Cypress, Playwright and AI </br>
+* 💡 Studying about several themes, especially Cypress, Playwright and AI 🤖 </br>
 * 🤭 Curiosity about me: I don't drink coffee!
 
 </br> 
@@ -79,7 +79,7 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 <!--
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
-
+### My GitHub Stats
 <!--
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
