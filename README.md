@@ -56,8 +56,8 @@ Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenhari
 <img height="37em" alt="Trello" src="https://github.com/cciola/images/blob/main/Trello.svg"/>
 <img height="40em" alt="SQL Server" src="https://github.com/cciola/images/blob/main/SQL.png"/>
 <img height="40em" alt="MongoDB" src="https://github.com/cciola/images/blob/main/MongoDB.svg"/>
-<img height="40em" alt="GitHub Copilot" src="https://github.com/cciola/images/blob/main/Copilot.png"/>
-<img height="40em" alt="Playwright" src="https://github.com/cciola/images/blob/main/Playwright.png"/>
+<img height="35em" alt="GitHub Copilot" src="https://github.com/cciola/images/blob/main/Copilot.png"/>
+<img height="40em" alt="Playwright" src="https://github.com/cciola/images/blob/main/playwright.svg"/>
 <img height="40em" alt="MCP" src="https://github.com/cciola/images/blob/main/MCP.png"/>
 <br><p>
 
