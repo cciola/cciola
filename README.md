@@ -1,19 +1,18 @@
-# 👋 Hello world!
+# 👋 Olá mundo!
 
-### About Me
-Hey! I'm Carol, I have bachelor's degree in Computer Science, postgraduation in Software Quality Engineering. I've been in the technology area for over 15 years. I have experience running functional, non-functional, manual and automated tests, and experience in agile teams. I'm used to work with agile quality model *Shift Left Testing*, and my main automation stack is Cypress with JavaScript.
-
+### Sobre mim
 <!--
-Hey! Sou Carol, bacharel em Ciência da Computação, pós-graduada em Engenharia da Qualidade de Software. Estou na área de tecnologia há mais de 15 anos. Tenho experiência em execução de testes funcionais e não funcionais, manuais e automatizados, e vivência em times ágeis. Estou habituada a trabalhar com o modelo de qualidade ágil (*Shift Left Testing*), e minha stack de automação principal é o Cypress com Javascript.
+Hey! I'm Carol, I have bachelor's degree in Computer Science, postgraduation in Software Quality Engineering. I've been in the technology area for over 15 years. I have experience running functional, non-functional, manual and automated tests, and experience in agile teams. I'm used to work with agile quality model *Shift Left Testing*, and my main automation stack is Cypress with JavaScript.
 -->
+
+Sou a Carol, estou na área de tecnologia há mais de 17 anos atuando com Qualidade de Software. Atuo com testes funcionais e não funcionais, manuais e automatizados, com forte vivência em Shift Left Testing. Minha principal stack de automação é Cypress e Playwright com JavaScript.
 
 </br>
 
-* 👩🏻‍💻 Test Analyst Expert at <a href="https://www.gft.com/br/pt"> GFT Tecnologies</a></br>
-* 📚 Check my articles on <a href="https://carolciola.medium.com/">Medium</a></br>
-* 💬 Talk to me about software quality and test automation</br>
-* 💡 Studying about several themes, especially Cypress, Playwright and AI 🤖 </br>
-* 🤭 Curiosity about me: I don't drink coffee!
+* 👩🏻‍💻 Test Analyst Expert na <a href="https://www.gft.com/br/pt"> GFT Tecnologies</a></br>
+* 📚 Acompanhe meus artigos no <a href="https://carolciola.medium.com/">Medium</a></br>
+* 💬 Converse comigo sobre qualidade de software e automação de testes</br>
+* 💡 Estudando diversos temas, principalmente Cypress, Playwright e IA 🤖 </br>
 
 </br> 
 
