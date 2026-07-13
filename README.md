@@ -63,14 +63,14 @@ Sou a Carol, estou na área de tecnologia há mais de 17 anos atuando com Qualid
 <a href=""> <img height="40em" alt="Android" src="https://github.com/cciola/images/blob/main/Android.jpg"/></a>
 <a href=""> <img height="35em" alt="iOS" src="https://github.com/cciola/images/blob/main/iOS.jpg"/></a>
 <a href=""> <img height="40em" alt="Azure DevOps" src="https://github.com/cciola/images/blob/main/Azure.svg"/></a>
-<a href=""> <img height="40em" alt="VSCode" src="https://github.com/cciola/images/blob/main/VSCode.svg"/></a>
+<a href="https://code.visualstudio.com/"> <img height="40em" alt="VSCode" src="https://github.com/cciola/images/blob/main/VSCode.svg"/></a>
 <a href=""> <img height="40em" alt="Visual Studio" src="https://github.com/cciola/images/blob/main/VisualStudio.svg"/></a>
-<a href=""> <img height="40em" alt="Jira" src="https://github.com/cciola/images/blob/main/Jira.svg"/></a>
-<a href=""> <img height="40em" alt="Confluence" src="https://github.com/cciola/images/blob/main/Confluence.svg"/></a>
-<a href=""> <img height="35em" alt="Zephyr" src="https://github.com/cciola/images/blob/main/Zephyr.png"/></a>
-<a href=""> <img height="37em" alt="Trello" src="https://github.com/cciola/images/blob/main/Trello.svg"/></a>
-<a href=""> <img height="40em" alt="SQL Server" src="https://github.com/cciola/images/blob/main/SQL.png"/></a>
-<a href=""> <img height="40em" alt="MongoDB" src="https://github.com/cciola/images/blob/main/MongoDB.svg"/></a>
+<a href="https://www.atlassian.com/br/software/jira"> <img height="40em" alt="Jira" src="https://github.com/cciola/images/blob/main/Jira.svg"/></a>
+<a href="https://www.atlassian.com/br/software/confluence"> <img height="40em" alt="Confluence" src="https://github.com/cciola/images/blob/main/Confluence.svg"/></a>
+<a href="https://marketplace.atlassian.com/apps/1213259/zephyr-test-management-and-automation-for-jira"> <img height="35em" alt="Zephyr" src="https://github.com/cciola/images/blob/main/Zephyr.png"/></a>
+<a href="https://trello.com/"> <img height="37em" alt="Trello" src="https://github.com/cciola/images/blob/main/Trello.svg"/></a>
+<a href="https://www.microsoft.com/pt-br/sql-server"> <img height="40em" alt="SQL Server" src="https://github.com/cciola/images/blob/main/SQL.png"/></a>
+<a href="https://www.mongodb.com/"> <img height="40em" alt="MongoDB" src="https://github.com/cciola/images/blob/main/MongoDB.svg"/></a>
 
 <br><p>
 
@@ -85,7 +85,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 </div>
 -->
 
-![Carol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=jolly&include_all_commits=true)
+<!-- ![Carol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cciola&show_icons=true&theme=jolly&include_all_commits=true) -->
+![Carol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolciola&show_icons=true&theme=jolly&include_all_commits=true)
 
 <br>
 <p align="left">
