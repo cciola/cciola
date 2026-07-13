@@ -5,7 +5,7 @@
 Hey! I'm Carol, I have bachelor's degree in Computer Science, postgraduation in Software Quality Engineering. I've been in the technology area for over 15 years. I have experience running functional, non-functional, manual and automated tests, and experience in agile teams. I'm used to work with agile quality model *Shift Left Testing*, and my main automation stack is Cypress with JavaScript.
 -->
 
-Sou a Carol, estou na área de tecnologia há mais de 17 anos atuando com Qualidade de Software. Atuo com testes funcionais e não funcionais, manuais e automatizados, com forte vivência em Shift Left Testing. Minha principal stack de automação é Cypress e Playwright com JavaScript.
+Sou a Carol, estou na área de tecnologia há mais de 17 anos atuando com Qualidade de Software. Atuo com testes funcionais e não funcionais, manuais e automatizados, com forte vivência em Shift Left Testing. Minhas principais stacks de automação são Cypress e Playwright com JavaScript.
 
 </br>
 
