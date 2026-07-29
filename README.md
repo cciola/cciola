@@ -16,83 +16,48 @@ Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Softwa
 
 ## 🛠️ Tecnologias
 
-### Automação de Testes
-<p align="left">
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/playwright.svg" alt="Playwright"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Cypress.jpeg" alt="Cypress"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/cucumber.svg" alt="Cucumber"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Allure.png" alt="Allure"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Selenium.png" alt="Selenium"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/specflow.png" alt="SpecFlow"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Sikuli.png" alt="Sikuli"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/K6.svg" alt="K6"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/JMeter.png" alt="JMeter"/>
-</p>
+<table>
+  <tr align="center">
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/playwright.svg" alt="Playwright"><br>Playwright</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Cypress.jpeg" alt="Cypress"><br>Cypress</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/cucumber.svg" alt="Cucumber"><br>Cucumber</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Allure.png" alt="Allure"><br>Allure</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Selenium.png" alt="Selenium"><br>Selenium</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/specflow.png" alt="SpecFlow"><br>SpecFlow</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Sikuli.png" alt="Sikuli"><br>Sikuli</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Testlink.png" alt="TestLink"><br>TestLink</td>
+  </tr>
 
-### Gestão de Testes
-<p align="left">
-  <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/Testlink.png" alt="TestLink"/>
-  <img height="37" src="https://raw.githubusercontent.com/cciola/images/main/Mantis.png" alt="Mantis"/>
-  <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/Jira.svg" alt="Jira"/>
-  <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/Confluence.svg" alt="Confluence"/>
-  <img height="35" src="https://raw.githubusercontent.com/cciola/images/main/Zephyr.png" alt="Zephyr"/>
-</p>
+  <tr align="center">
+    <td><img height="37" src="https://raw.githubusercontent.com/cciola/images/main/Mantis.png" alt="Mantis"><br>Mantis</td>
+    <td><img height="40" src="https://raw.githubusercontent.com/cciola/images/main/Jira.svg" alt="Jira"><br>Jira</td>
+    <td><img height="40" src="https://raw.githubusercontent.com/cciola/images/main/Confluence.svg" alt="Confluence"><br>Confluence</td>
+    <td><img height="35" src="https://raw.githubusercontent.com/cciola/images/main/Zephyr.png" alt="Zephyr"><br>Zephyr</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/JavaScript.svg" alt="JavaScript"><br>JavaScript</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Python.svg" alt="Python"><br>Python</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/csharp.svg" alt="C#"><br>C#</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby"><br>Ruby</td>
+  </tr>
 
-### Linguagens e APIs
-<p align="left">
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/JavaScript.svg" alt="JavaScript"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Python.svg" alt="Python"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/csharp.svg" alt="C#"/>
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Postman.svg" alt="Postman"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Swagger.png" alt="Swagger"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/SQL.png" alt="SQL"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/MongoDB.svg" alt="MongoDB"/>
-</p>
+  <tr align="center">
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Github.png" alt="GitHub"><br>GitHub</td>
+    <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"><br>Jenkins</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/GitLab.svg" alt="GitLab"><br>GitLab</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Azure.svg" alt="Azure"><br>Azure</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Docker.svg" alt="Docker"><br>Docker</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/AWS.svg" alt="AWS"><br>AWS</td>
+    <td><img height="35" src="https://raw.githubusercontent.com/cciola/images/main/Copilot.png" alt="GitHub Copilot"><br>Copilot</td>
+    <td><img height="40" src="https://raw.githubusercontent.com/cciola/images/main/MCP.png" alt="MCP"><br>MCP</td>
+  </tr>
 
-### DevOps, Cloud e Ferramentas
-<p align="left">
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Github.png" alt="GitHub"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/GitLab.svg" alt="GitLab"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Azure.svg" alt="Azure DevOps"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Docker.svg" alt="Docker"/>
-  <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/AWS.svg" alt="AWS"/>
-  <img height="35" src="https://raw.githubusercontent.com/cciola/images/main/Copilot.png" alt="GitHub Copilot"/>
-  <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/MCP.png" alt="MCP"/>
-</p>
-
-<!--
-## 🛠️ Tecnologias
-<p>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/playwright.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Cypress.jpeg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/cucumber.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Allure.png"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Selenium.png"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/specflow.png"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Sikuli.png"/>
-  <img height="40" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Testlink.png"/>
-  <img height="37" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Mantis.png"/>
-  <img height="40" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Jira.svg"/>
-  <img height="40" hspace="5" alt="Confluence" src="https://raw.githubusercontent.com/cciola/images/main/Confluence.svg"/>
-  <img height="35" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Zephyr.png"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/JavaScript.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Python.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/csharp.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Github.png"/>
-  <img height="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/GitLab.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Azure.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Docker.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/AWS.svg"/>
-  <img height="35" hspace="5" alt="GitHub Copilot" src="https://raw.githubusercontent.com/cciola/images/main/Copilot.png"/>
-  <img height="40" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/MCP.png"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Postman.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Swagger.png"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/K6.svg"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/JMeter.png"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/SQL.png"/>
-  <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/MongoDB.svg"/>
-</p>
+  <tr align="center">
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Postman.svg" alt="Postman"><br>Postman</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Swagger.png" alt="Swagger"><br>Swagger</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/K6.svg" alt="K6"><br>K6</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/JMeter.png" alt="JMeter"><br>JMeter</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/SQL.png" alt="SQL"><br>SQL</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/MongoDB.svg" alt="MongoDB"><br>MongoDB</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
