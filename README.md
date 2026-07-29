@@ -4,7 +4,8 @@
 Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Software. Tenho experiência em testes funcionais e não funcionais, testes manuais e automatizados, sempre buscando entregar software com qualidade desde as primeiras etapas do desenvolvimento através da cultura Shift Left Testing. Atualmente meu foco está em Playwright, Cypress, JavaScript, Inteligência Artificial aplicada à Qualidade de Software e automação de testes modernos.
 </br>
 
-<p> <a href="https://www.linkedin.com/in/carol-ciola"> <img height="25" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:carol.ciola@gmail.com"> <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://medium.com/@carolciola"> <img height="25" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/> </a> </p>
+<a href="https://www.linkedin.com/in/carol-ciola"> <img height="25" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="mailto:carol.ciola@gmail.com"> <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://medium.com/@carolciola"> <img height="25" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/> </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Visualizações%20do%20perfil&color=0e75b6&style=flat"/> </p>
 
 ## 🛠️ Tecnologias
