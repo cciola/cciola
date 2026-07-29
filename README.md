@@ -9,6 +9,99 @@ Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Softwa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cciola&label=Visualizações%20do%20perfil&color=0e75b6&style=flat"/> </p>
 
 ## 🛠️ Tecnologias
+
+<table>
+  <tr>
+    <td align="center"><b>Automação de Testes</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/playwright.svg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Cypress.jpeg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/cucumber.svg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Allure.png"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Selenium.png"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/specflow.png"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Sikuli.png"/>
+      &nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/K6.svg"/>
+      &nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/JMeter.png"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Gestão de Testes e Projetos</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/Testlink.png"/>
+      &nbsp;
+      <img height="37" src="https://raw.githubusercontent.com/cciola/images/main/Mantis.png"/>
+      &nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/Jira.svg"/>
+      &nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/Confluence.svg"/>
+      &nbsp;
+      <img height="35" src="https://raw.githubusercontent.com/cciola/images/main/Zephyr.png"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Linguagens e Desenvolvimento</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/JavaScript.svg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Python.svg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/csharp.svg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/SQL.png"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/MongoDB.svg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Postman.svg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Swagger.png"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>DevOps, Cloud e IA</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Github.png"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/GitLab.svg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Azure.svg"/>
+      &nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Docker.svg"/>
+      &nbsp;
+      <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/AWS.svg"/>
+      &nbsp;
+      <img height="35" src="https://raw.githubusercontent.com/cciola/images/main/Copilot.png"/>
+      &nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/MCP.png"/>
+    </td>
+  </tr>
+</table>
+
+<!--
+## 🛠️ Tecnologias
 <p>
   <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/playwright.svg"/>
   <img height="42" hspace="5" src="https://raw.githubusercontent.com/cciola/images/main/Cypress.jpeg"/>
