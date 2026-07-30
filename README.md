@@ -21,39 +21,36 @@ Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Softwa
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/playwright.svg" alt="Playwright"><br>Playwright</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Cypress.jpeg" alt="Cypress"><br>Cypress</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/cucumber.svg" alt="Cucumber"><br>Cucumber</td>
-    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Allure.png" alt="Allure Reports"><br>Allure</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Allure.png" alt="Allure Reports"><br>Allure Reports</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Selenium.png" alt="Selenium"><br>Selenium</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/specflow.png" alt="SpecFlow"><br>SpecFlow</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Sikuli.png" alt="SikuliX"><br>Sikuli</td>
+    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Testlink.png" alt="TestLink"><br>TestLink</td>
   </tr>
 
   <tr align="center">
-    <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Testlink.png" alt="TestLink"><br>TestLink</td>
     <td><img height="37" src="https://raw.githubusercontent.com/cciola/images/main/Mantis.png" alt="Mantis"><br>Mantis</td>
     <td><img height="40" src="https://raw.githubusercontent.com/cciola/images/main/Jira.svg" alt="Jira"><br>Jira</td>
     <td><img height="40" src="https://raw.githubusercontent.com/cciola/images/main/Confluence.svg" alt="Confluence"><br>Confluence</td>
     <td><img height="35" src="https://raw.githubusercontent.com/cciola/images/main/Zephyr.png" alt="Zephyr"><br>Zephyr</td>
-  </tr>
-
-  <tr align="center">
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/JavaScript.svg" alt="JavaScript"><br>JavaScript</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Python.svg" alt="Python"><br>Python</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/csharp.svg" alt="C#"><br>C#</td>
+  </tr>
+
+  <tr align="center">
     <td><img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby"><br>Ruby</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Github.png" alt="GitHub"><br>GitHub</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/GitLab.svg" alt="GitLab"><br>GitLab</td>
     <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"><br>Jenkins</td>
-  </tr>
-
-  <tr align="center">
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Azure.svg" alt="Azure"><br>Azure</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Docker.svg" alt="Docker"><br>Docker</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/AWS.svg" alt="AWS"><br>AWS</td>
-    <td><img height="35" src="https://raw.githubusercontent.com/cciola/images/main/Copilot.png" alt="GitHub Copilot"><br>Copilot</td>
-    <td><img height="40" src="https://raw.githubusercontent.com/cciola/images/main/MCP.png" alt="MCP"><br>MCP Server</td>
   </tr>
 
   <tr align="center">
+    <td><img height="35" src="https://raw.githubusercontent.com/cciola/images/main/Copilot.png" alt="GitHub Copilot"><br>Copilot</td>
+    <td><img height="40" src="https://raw.githubusercontent.com/cciola/images/main/MCP.png" alt="MCP"><br>MCP Server</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Postman.svg" alt="Postman"><br>Postman</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Swagger.png" alt="Swagger"><br>Swagger</td>
     <td><img height="42" src="https://raw.githubusercontent.com/cciola/images/main/K6.svg" alt="K6"><br>K6</td>
