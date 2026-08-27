@@ -1,7 +1,7 @@
 # 👋 Olá, sou a Carol!
 ### 👩‍💻 Especialista em Qualidade de Software | Automação de Testes | Shift Left Testing
 
-Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Software. Tenho experiência em testes funcionais e não funcionais, testes manuais e automatizados, sempre buscando entregar software com qualidade desde as primeiras etapas do desenvolvimento através da cultura Shift Left Testing. Atualmente meu foco está em Playwright, Cypress, JavaScript, Inteligência Artificial aplicada à Qualidade de Software e automação de testes modernos.
+Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Software. Tenho experiência em testes funcionais e não funcionais, testes manuais e automatizados, sempre buscando entregar software com qualidade desde as primeiras etapas do desenvolvimento através da cultura Shift Left Testing. Atualmente meu foco está em Playwright, Inteligência Artificial aplicada à Qualidade de Software e automação de testes modernos.
 </br>
 
 <p align="left">
