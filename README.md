@@ -1,5 +1,5 @@
 # 👋 Olá, sou a Carol!
-### 👩‍💻 QA Engineer | Test Automation
+### 👩‍💻 Qualidade de Software | Automação de Testes
 
 Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Software. Tenho experiência em testes funcionais e não funcionais, testes manuais e automatizados, sempre buscando entregar software com qualidade desde as primeiras etapas do desenvolvimento através da cultura Shift Left Testing. Atualmente meu foco está em IA aplicada à Qualidade de Software e automação de testes modernos.
 </br>
