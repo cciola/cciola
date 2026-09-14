@@ -16,4 +16,23 @@ Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Softwa
 
 ## 🛠️ Tecnologias
 
-<p align="left"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/playwright.svg" alt="Playwright"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Cypress.jpeg" alt="Cypress"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/cucumber.svg" alt="Cucumber"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Selenium.png" alt="Selenium"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Sikuli.png" alt="SikuliX"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/JavaScript.svg" alt="JavaScript"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Python.svg" alt="Python"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/csharp.svg" alt="C#"> <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/Docker.svg" alt="Docker"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/AWS.svg" alt="AWS"> <img height="35" src="https://raw.githubusercontent.com/cciola/images/main/Copilot.png" alt="GitHub Copilot"> <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/MCP.png" alt="MCP"> <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/Postman.svg" alt="Postman"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/K6.svg" alt="K6"> <img height="40" src="https://raw.githubusercontent.com/cciola/images/main/JMeter.png" alt="JMeter"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/SQL.png" alt="SQL"> <img height="42" src="https://raw.githubusercontent.com/cciola/images/main/MongoDB.svg" alt="MongoDB"> </p>
+<p align="left"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/playwright.svg" alt="Playwright"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/Cypress.jpeg" alt="Cypress"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/cucumber.svg" alt="Cucumber"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/Selenium.png" alt="Selenium"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/Sikuli.png" alt="SikuliX"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/JavaScript.svg" alt="JavaScript"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/Python.svg" alt="Python"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/csharp.svg" alt="C#"> 
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/Docker.svg" alt="Docker"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/AWS.svg" alt="AWS"> 
+  <img height="31" src="https://raw.githubusercontent.com/cciola/images/main/Copilot.png" alt="GitHub Copilot"> 
+  <img height="36" src="https://raw.githubusercontent.com/cciola/images/main/MCP.png" alt="MCP"> 
+  <img height="36" src="https://raw.githubusercontent.com/cciola/images/main/Postman.svg" alt="Postman"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/K6.svg" alt="K6"> 
+  <img height="36" src="https://raw.githubusercontent.com/cciola/images/main/JMeter.png" alt="JMeter"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/SQL.png" alt="SQL"> 
+  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/MongoDB.svg" alt="MongoDB"> 
+</p>
