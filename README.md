@@ -20,12 +20,12 @@ Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Softwa
   <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/playwright.svg" alt="Playwright"> 
   <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/Cypress.jpeg" alt="Cypress"> 
   <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/cucumber.svg" alt="Cucumber"> 
-  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/Selenium.png" alt="Selenium"> 
+  <img height="35" src="https://raw.githubusercontent.com/cciola/images/main/Selenium.png" alt="Selenium"> 
   <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/Sikuli.png" alt="SikuliX"> 
-  <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/JavaScript.svg" alt="JavaScript"> 
+  <img height="36" src="https://raw.githubusercontent.com/cciola/images/main/JavaScript.svg" alt="JavaScript"> 
   <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/Python.svg" alt="Python"> 
   <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/csharp.svg" alt="C#"> 
-  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby"> 
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby"> 
   <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/Docker.svg" alt="Docker"> 
   <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/AWS.svg" alt="AWS"> 
   <img height="31" src="https://raw.githubusercontent.com/cciola/images/main/Copilot.png" alt="GitHub Copilot"> 
