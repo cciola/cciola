@@ -28,7 +28,7 @@ Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Softwa
   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby"> 
   <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/Docker.svg" alt="Docker"> 
   <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/AWS.svg" alt="AWS"> 
-  <img height="31" src="https://raw.githubusercontent.com/cciola/images/main/Copilot.png" alt="GitHub Copilot"> 
+  <img height="31" src="https://raw.githubusercontent.com/cciola/images/main/copilot.png" alt="GitHub Copilot"> 
   <img height="36" src="https://raw.githubusercontent.com/cciola/images/main/MCP.png" alt="MCP"> 
   <img height="36" src="https://raw.githubusercontent.com/cciola/images/main/Postman.svg" alt="Postman"> 
   <img height="38" src="https://raw.githubusercontent.com/cciola/images/main/K6.svg" alt="K6"> 
