@@ -6,7 +6,7 @@ Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Softwa
 
 <p align="left">
   <a href="https://www.linkedin.com/in/carol-ciola"> <img height="25" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-  <a href="mailto:carol.ciola@gmail.com"> <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+  <!-- <a href="mailto:carol.ciola@gmail.com"> <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> -->
   <a href="https://medium.com/@carolciola"> <img height="25" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/> </a> 
 </p>
 
