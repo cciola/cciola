@@ -12,6 +12,7 @@ Atuo há mais de 17 anos na área de Tecnologia, com foco em Qualidade de Softwa
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=cciola&label=Visualizações%20do%20perfil&color=0e75b6&style=flat"/>
+  ![](https://komarev.com/ghpvc/?username=cciola)
 </p>
 
 ## 🛠️ Tecnologias
